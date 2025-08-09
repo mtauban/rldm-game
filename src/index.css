@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* (optional) Tailwind v4 theme tokens */
+@theme {
+  --color-brand: #10b981; /* example emerald */
+}
